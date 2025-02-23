@@ -108,7 +108,7 @@ The project code is organized as follows:
 
 3.  **Run the code:**
     ```
-    jupyter notebook IDMP_Proj.ipynb
+    jupyter notebook loan-default-prediction.ipynb
     ```
 
 ## Next Steps
