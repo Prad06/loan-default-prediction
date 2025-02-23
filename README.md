@@ -97,8 +97,8 @@ The project code is organized as follows:
 
 1.  **Clone the repository:**
     ```
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/Prad06/loan-default-prediction
+    cd loan-default-prediction
     ```
 
 2.  **Install the required libraries:**
