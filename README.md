@@ -8,9 +8,11 @@ This project develops a machine learning model to predict loan defaults using hi
 
 The dataset used in this project is obtained from Lending Club. It includes information about accepted loan applications, such as loan amount, interest rate, borrower demographics, and loan status.
 
-*   `01_accepted_2007_to_2018Q4.csv`: Contains accepted loan applications data from 2007 to Q4 2018.
+*   `accepted_2007_to_2018Q4.csv`: Contains accepted loan applications data from 2007 to Q4 2018.
     *   A subset of this data, specifically loans issued in August-December 2014, is used for training.
     *   Loans issued in Jan-Mar 2015 are used for Out-of-Time validation
+    *   Dataset : [Kaggle](https://www.kaggle.com/code/kwasiransom/lending-club-loan-data-statistical-analysis/input)
+    *   Unzip and save in a folder `./data`
 
 ## Key Steps
 
